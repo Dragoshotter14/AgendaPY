@@ -1,7 +1,7 @@
 # Primeiro projeto desenvolvido por Emerson da Silva Vianna com a ajuda da Solyd iniciado 25/01/2022 #
 # HELLO WORLD #
 
-print("AGENDA EMERSON")
+print("AGENDA")
 
 AGENDA = {}
 
